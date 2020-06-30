@@ -1,0 +1,7 @@
+Setup terraform
+setup service principals
+configure providers
+configure variables
+configure tfvars for secrets
+add .tfvar to gitignore
+deploy first RG
